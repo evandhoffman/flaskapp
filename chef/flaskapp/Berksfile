@@ -4,5 +4,5 @@ metadata
 
 cookbook 'nginx'
 cookbook 'gunicorn'
-cookbook 'pip'
+cookbook 'python'
 cookbook 'git'
